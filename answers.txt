@@ -1,1 +1,6 @@
 What is the difference between a merge and a rebase?
+
+A merge notices the differences between a file you edited in the current branch and a file that was fetched and does the ">>> === <<<" thing in the file to show the differences.
+A rebase updates the start of the branch to another state which happened after the initial branch.
+
+One of the main differences is that merge affects the files while rebase only works with the branch itself.
