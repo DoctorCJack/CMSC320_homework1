@@ -4,3 +4,9 @@ A merge notices the differences between a file you edited in the current branch 
 A rebase updates the start of the branch to another state which happened after the initial branch.
 
 One of the main differences is that merge affects the files while rebase only works with the branch itself.
+
+
+
+What is a remote repository?
+
+A remote repository is a grouped collection of files located on a server which your local computer can connect to.
